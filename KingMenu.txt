@@ -1,0 +1,64 @@
+  ___
+//___// HacKing/HacKits/AnyKits/UniKits Categories
+
+###############################################
+
+#         Penetration Testing Steps           #
+
+###############################################
+# ptb PenTest Books|PenTestBooks
+
+# an Anonymity Surfing
+
+# pl Planning|Planning
+
+# re Reconnaissance|Reconnaissance
+  ig Information Gathering
+  gps GeoLocation Tracker
+
+# sv Scanning Vulnerability|Scanning_Vulnerability
+  ev Enumeration Vulnerability
+  df Digital Forensics
+
+# ga Gaining Access|Gaining_Access
+  p PayLoads
+  b BackDoors
+  rs ReverseShell
+  ef Exploit Frameworks
+  sp Sniffing & Spoofing
+  pe1 Privilege Escalation
+  pe2 Privilege Enumeration
+  hp Hashing & Password
+  wh Web Hacking
+  wt Wireless Testing
+
+# ma Maintaining Access|Maintaining_Access
+  ra Remote Access
+  rat Remote Administration Tool
+
+# ct Covering tracks|Covering_tracks
+
+# an Analysis|Analysis
+  rev Reverse Engineering
+
+# rp Reporting|Reporting
+  sp Summary Reports
+
+###############################################
+
+mf Multi Frameworks|Multi_Frameworks
+aio All In One|All_In_One
+kd Kits Downloader
+mp Multi Purpose
+uk Universal Kits
+
+###############################################
+
+g Generators:
+
+0 Back
+
+###############################################
+
+┌──[Anlominus👽WorKing$~]
+└──╼
